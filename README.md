@@ -130,4 +130,4 @@ git push
 Then, go to ``https://github.com/TimKam/multi-armed-bandit-lab/pulls`` and create a pull request for your branch.
 Make sure all tests pass for your pull requests.
 Then, add the link to your pull request to your report.
-Hand-in the report and a copy of your code in [Labres](https://webapps.cs.umu.se/labresults/v2/handin.php?courseid=402).
+Hand-in the report and a copy of your code in [Labres](https://webapps.cs.umu.se/labresults/v2/handin.php?courseid=402). 
